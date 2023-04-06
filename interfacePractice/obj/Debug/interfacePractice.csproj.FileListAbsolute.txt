@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\interfacePractice\interfacePractice\bin\Debug\interfacePractice.exe.config
+C:\Users\user\source\repos\interfacePractice\interfacePractice\bin\Debug\interfacePractice.exe
+C:\Users\user\source\repos\interfacePractice\interfacePractice\bin\Debug\interfacePractice.pdb
+C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.exe
+C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.pdb
