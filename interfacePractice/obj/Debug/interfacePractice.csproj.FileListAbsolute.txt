@@ -6,3 +6,10 @@ C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfa
 C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.exe
 C:\Users\user\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.pdb
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\obj\Debug\interfacePractice.csprojAssemblyReference.cache
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\obj\Debug\interfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\obj\Debug\interfacePractice.exe
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\obj\Debug\interfacePractice.pdb
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\bin\Debug\interfacePractice.exe.config
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\bin\Debug\interfacePractice.exe
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\bin\Debug\interfacePractice.pdb

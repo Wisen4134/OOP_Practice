@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace interfacePractice.Programers
+namespace interfacePractice.employee
 {
     /// <summary>
     /// 菜雞軟體工程師

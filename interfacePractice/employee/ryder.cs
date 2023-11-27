@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace interfacePractice.Programers
+namespace interfacePractice.employee
 {
     /// <summary>
     /// PLC工程師
