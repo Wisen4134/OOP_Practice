@@ -1,4 +1,4 @@
-# InterfacePractice
+# OOP_Practice
 ## OO(OOP)物件導向特性
 ### 類別＆物件
     類別是定義、是設計圖、是描述；物件是類別產生的實體、是實際上的執行者
