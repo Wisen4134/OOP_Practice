@@ -1,11 +1,13 @@
 ﻿using interfacePractice;
 using interfacePractice.Company;
 using interfacePractice.employee;
+using interfacePractice.employee.WIT;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 
 namespace interfacePractice
 {
@@ -46,17 +48,21 @@ namespace interfacePractice
 		static classTest test3 = new classTest(87);
 		static classTest test4 = new classTest("naughty guy",8787,"ssssssssssssssss");
 
+		static Wisen Wisen = new Wisen();
+		static WIT WIT = new WIT(Wisen);
+
 		static void Main(string[] args)
         {
             SW1.Work();
-
             FW1.Work();
-
             PLC1.Work();
-
             SW2.Work();
-
+			
+			// 子類別覆寫差異實作方法
 			classTest.callClass();
+
+			WIT.doWork();
+			WIT.showInFo();
 
 			Console.WriteLine($@"Name:{test1.name}，Weight:{test1.weight}");
 			Console.WriteLine($@"Name:{test2.name}，Weight:{test2.weight}");

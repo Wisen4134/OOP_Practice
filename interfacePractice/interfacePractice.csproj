@@ -44,14 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Company\Engineer.cs" />
+    <Compile Include="Company\WIT.cs" />
+    <Compile Include="employee\WIT\Wisen.cs" />
     <Compile Include="Interfaces\IFirmwareEngineer.cs" />
     <Compile Include="Interfaces\IPLCEngineer.cs" />
     <Compile Include="Interfaces\ISoftwareEngineer.cs" />
+    <Compile Include="Interfaces\IWITpartner.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="employee\linc.cs" />
-    <Compile Include="employee\ryder.cs" />
-    <Compile Include="employee\todd.cs" />
-    <Compile Include="employee\wisen.cs" />
+    <Compile Include="employee\ACL\linc.cs" />
+    <Compile Include="employee\ACL\ryder.cs" />
+    <Compile Include="employee\ACL\todd.cs" />
+    <Compile Include="employee\ACL\wisen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Class\classTest.cs" />
   </ItemGroup>

@@ -13,3 +13,9 @@ C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\obj
 C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\bin\Debug\interfacePractice.exe.config
 C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\bin\Debug\interfacePractice.exe
 C:\Users\LENOVO PC\Desktop\Wisen\My_self\InterfacePractice\interfacePractice\bin\Debug\interfacePractice.pdb
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\OOP_Practice\interfacePractice\bin\Debug\interfacePractice.exe.config
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\OOP_Practice\interfacePractice\bin\Debug\interfacePractice.exe
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\OOP_Practice\interfacePractice\bin\Debug\interfacePractice.pdb
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\OOP_Practice\interfacePractice\obj\Debug\interfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\OOP_Practice\interfacePractice\obj\Debug\interfacePractice.exe
+C:\Users\LENOVO PC\Desktop\Wisen\My_self\OOP_Practice\interfacePractice\obj\Debug\interfacePractice.pdb
